@@ -52,6 +52,10 @@ Project 1
 </style>
   
   <body>
+    <div id="header" class="w3-container w3-flat-silver"> <!--start of front page-->
+	<h1>super duper memory</h1> <!--header for front page-->
+</div> <!--start of content for front page-->
+    
    </body>
    
    </html>
